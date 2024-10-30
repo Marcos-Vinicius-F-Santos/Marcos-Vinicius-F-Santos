@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marcos Vinicius Ferreira Santos</h1>
-<h3 align="center">A growing data scientist</h3>
+<h3 align="center">A data scientist and developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcos-vinicius-f-santos&label=Profile%20views&color=0e75b6&style=flat" alt="marcos-vinicius-f-santos" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcos-vinicius-f-santos" alt="marcos-vinicius-f-santos" /></a> </p>
 
-- 🌱 I’m currently learning **Python, R, C**
+- 🌱 I’m currently improving my knowledge in **Javascript and java**
 
 - 💬 Ask me about **Python, ETL, DW, DM**
 
